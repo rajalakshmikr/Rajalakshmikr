@@ -39,7 +39,7 @@
 
 ### 🔹 Exploratory Data Analysis on Superstore Data
 🧠 Built interactive dashboard using Pandas, Numpy, Seaborn, Matplotlib libraries in Python
-🔗 [View Project]([PROJECT_LINK](https://github.com/rajalakshmikr/EDA-Data/blob/main/EDA%20on%20Superstore%20data.ipynb))
+🔗 [View Project](https://github.com/rajalakshmikr/EDA-Data/blob/main/EDA%20on%20Superstore%20data.ipynb))
 
 ---
 
