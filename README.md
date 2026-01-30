@@ -29,20 +29,21 @@
 
 ## 📌 Featured Projects
 
-### 🔹 Sales Performance Dashboard (Power BI)
-📈 Built an interactive dashboard to track KPIs and improve sales visibility  
-🔗 [View Project](PROJECT_LINK)
+### 🔹 Predicting-Flight-Delays-Using-Weather-Data
+📈 Built a machine learning-powered web application using real-time weather and aviation datasets. Built and trained predictive models, achieving 96% accuracy using Python, SQL, and Scikit-learn. 
+🔗 [View Project](https://github.com/rajalakshmikr/Predicting-Flight-Delays-Using-Local-Weather-Data)
 
-### 🔹 Customer Segmentation (Python + ML)
-🤖 Used clustering models to segment customers for marketing optimization  
-🔗 [View Project](PROJECT_LINK)
+### 🔹 Netflix-Recommendation-System(Python + ML)
+🧠 Built a flask web-app which can be used to get recommendations for a tv-show/movie, the app recommends a list of media according to the input.
+🔗 [View Project](https://github.com/rajalakshmikr/Netflix-Movie-Recommendation-System)
 
-### 🔹 SQL Business Insights
-🧠 Advanced SQL queries for revenue trends and user behavior analysis  
-🔗 [View Project](PROJECT_LINK)
+### 🔹 Exploratory Data Analysis on Superstore Data
+🧠 Built interactive dashboard using Pandas, Numpy, Seaborn, Matplotlib libraries in Python
+🔗 [View Project]([PROJECT_LINK](https://github.com/rajalakshmikr/EDA-Data/blob/main/EDA%20on%20Superstore%20data.ipynb))
 
 ---
 
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
+![GitHub Stats](https://github.com/rajalakshmikr)
