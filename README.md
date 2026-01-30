@@ -16,14 +16,28 @@
 
 ## 🛠 Tech Stack
 
-![Python](https://img.shields.io/badge/Python-blue?logo=python)
-![SQL](https://img.shields.io/badge/SQL-red?logo=mysql)
-![Power BI](https://img.shields.io/badge/PowerBI-yellow?logo=powerbi)
-![Excel](https://img.shields.io/badge/Excel-green?logo=microsoftexcel)
-![Tableau](https://img.shields.io/badge/Tableau-orange?logo=tableau)
-![Pandas](https://img.shields.io/badge/Pandas-purple?logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-blue?logo=numpy)
+### 📊 Data & Analytics  
+![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-red?logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-yellow?logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-green?logo=microsoftexcel&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-orange?logo=tableau&logoColor=white)
+
+### 🧠 Data Science & ML  
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-orange?logo=scikitlearn&logoColor=white)
+![Statistics](https://img.shields.io/badge/Statistics-purple)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-darkred)
+
+### 📦 Libraries & Visualization  
+![Pandas](https://img.shields.io/badge/Pandas-purple?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-blue?logo=numpy&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-teal)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-yellow)
+
+### ⚙️ Tools & Platforms  
+![Jupyter](https://img.shields.io/badge/Jupyter-orange?logo=jupyter&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-green?logo=anaconda&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-black?logo=flask&logoColor=white)
 
 ---
 
